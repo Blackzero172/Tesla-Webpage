@@ -1,0 +1,20 @@
+Overall{
+    Scroll Animation
+    Snap to Page
+    Link:Active
+    Text Animation(Not Required)
+}
+Page 1{
+    Background(Network ,Img,CSS)1H
+    Header{
+        Logo{
+            SCG dev-tools(position topleft)1.5H
+        }
+        mid-NavBar{
+            buttons with hover 30min
+        }
+        right sideBar{
+            buttons with hover 20min
+        }
+    }
+}
