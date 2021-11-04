@@ -1,15 +1,15 @@
 /* Font Setup */
 @font-face {
     font-family: GothamBold;
-    src: url("/assets/fonts/Gotham-Bold.otf") format("opentype");
+    src: url("../assets/fonts/Gotham-Bold.otf") format("opentype");
 }
 @font-face {
     font-family: GothamBook;
-    src: url("/assets/fonts/GothamBook.ttf") format("TrueType");
+    src: url("../assets/fonts/GothamBook.ttf") format("TrueType");
 }
 @font-face {
     font-family: GothamL;
-    src: url("/assets/fonts/Gotham-Light.otf") format("opentype");
+    src: url("../assets/fonts/Gotham-Light.otf") format("opentype");
     font-weight: 900;
 }
 /* CSS Reset + Font */
